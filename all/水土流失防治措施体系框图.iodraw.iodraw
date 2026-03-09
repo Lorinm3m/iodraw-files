@@ -16,7 +16,7 @@
         <mxCell id="b9TgSspI1JIEXCPaaH9l-5" value="施工生产生活区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="260" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b9TgSspI1JIEXCPaaH9l-6" value="主体工程区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b9TgSspI1JIEXCPaaH9l-6" value="临时堆土场区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="310" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
