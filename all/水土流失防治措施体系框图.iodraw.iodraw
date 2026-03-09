@@ -20,10 +20,10 @@
           <mxGeometry x="250" y="305" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b9TgSspI1JIEXCPaaH9l-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="350" y="202.5" width="20" height="45" as="geometry" />
+          <mxGeometry x="350" y="180" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b9TgSspI1JIEXCPaaH9l-8" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="371" y="192.5" width="330" height="65" as="geometry" />
+          <mxGeometry x="370" y="185" width="330" height="65" as="geometry" />
         </mxCell>
         <mxCell id="b9TgSspI1JIEXCPaaH9l-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="b9TgSspI1JIEXCPaaH9l-8">
           <mxGeometry width="330" height="20" as="geometry" />
